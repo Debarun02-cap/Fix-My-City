@@ -33,11 +33,11 @@ npm start
 Open your browser and visit:
 http://localhost:3000
 
-🎯 Purpose
+##🎯 Purpose
 
 The goal of FixMyCity is to reduce communication gaps between citizens and municipal bodies by providing a transparent, digital platform for civic issue reporting and resolution.
 
-📌 Future Enhancements
+##📌 Future Enhancements
 
 -Image upload for issue reporting
 
@@ -51,4 +51,4 @@ The goal of FixMyCity is to reduce communication gaps between citizens and munic
 
 👤 Author
 
-Debarun Roy
+##Debarun Roy
