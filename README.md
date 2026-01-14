@@ -40,10 +40,15 @@ The goal of FixMyCity is to reduce communication gaps between citizens and munic
 📌 Future Enhancements
 
 -Image upload for issue reporting
+
 -Role-based access control
+
 -Notification system (email/SMS)
+
 -Mobile application support
+
 -Analytics dashboard for authorities
 
 👤 Author
+
 Debarun Roy
