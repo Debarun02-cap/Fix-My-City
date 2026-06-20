@@ -1,0 +1,5 @@
+node_modules/
+dbpass
+.env
+.DS_Store
+*.log
