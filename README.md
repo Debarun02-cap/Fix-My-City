@@ -20,6 +20,7 @@ FixMyCity is a civic issue reporting and management platform designed to improve
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/FixMyCity.git
+<<<<<<< HEAD
    ```
 
 2. Navigate to the project directory:
@@ -41,6 +42,20 @@ FixMyCity is a civic issue reporting and management platform designed to improve
    ```bash
    http://localhost:3000
    ```
+=======
+
+Navigate to the project directory:
+cd FixMyCity
+
+Install dependencies:
+npm install
+
+Start the server:
+npm start
+
+Open your browser and visit:
+http://localhost:3000
+>>>>>>> 184034bc8c6837221ddbac54acd5c9fecd470c1b
 
 **🎯 Purpose**
 
@@ -48,11 +63,23 @@ The goal of FixMyCity is to reduce communication gaps between citizens and munic
 
 **📌 Future Enhancements**
 
+<<<<<<< HEAD
 - Image upload for issue reporting
 - Role-based access control
 - Notification system (email/SMS)
 - Mobile application support
 - Analytics dashboard for authorities
+=======
+-Image upload for issue reporting
+
+-Role-based access control
+
+-Notification system (email/SMS)
+
+-Mobile application support
+
+-Analytics dashboard for authorities
+>>>>>>> 184034bc8c6837221ddbac54acd5c9fecd470c1b
 
 👤 Author
 
